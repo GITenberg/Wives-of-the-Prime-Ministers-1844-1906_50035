@@ -1,4 +1,8 @@
 _repo: Wives-of-the-Prime-Ministers-1844-1906_50035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50035-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lee, Elizabth
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45670'
     url: http://www.gutenberg.org/2009/agents/45670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50035#Wives-of-the-Prime-Ministers-1844-1906
 gutenberg_issued: '2015-09-22'
 gutenberg_type: Text
 identifiers:
